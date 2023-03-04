@@ -210,4 +210,4 @@ At the end of the logs you should see the line:
 
 This is the end one of a part of ordinary everyday DevOps tasks.
 
-Thanks to [Tom Donohue](https://uk.linkedin.com/in/tomint) as an author for such kind of helpful material that I could use in this small guide.
+Thanks to [Tom Donohue](https://uk.linkedin.com/in/tomint) as an author for such kind of helpful [material](https://www.tutorialworks.com/linux-vm-vagrant/) that I could use in this small guide.
